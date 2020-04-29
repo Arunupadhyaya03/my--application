@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dynamic Edittext</string>
+    <item name="new_view_id" type="id"/>
+    <item name="new_btn_id" type="id"/>
+
+    <string-array name="types">
+        <item>Mobile</item>
+        <item>Office</item>
+        <item>Home</item>
+    </string-array>
+
+</resources>
